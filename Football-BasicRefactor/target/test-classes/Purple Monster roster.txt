@@ -1,0 +1,9 @@
+QB:Daunte:Cullpepper:MIN
+WR:Heinz:Ward:PIT
+WR:Marvin:Harrison:IND
+WR:Ashley:Lelie:DEN
+RB:Willis:McGehee:BUF
+RB:Kevin:Jones:DET
+TE:Eric:Johnson:SF
+K:Jason:Elam:DEN
+DEF:Atlanta:Falcons:ATL

@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
+
+<coverage line-rate="0.0" branch-rate="1.0" lines-covered="0" lines-valid="4" branches-covered="0" branches-valid="0" complexity="1.0" version="1.9.4.1" timestamp="1305605975053">
+	<sources>
+		<source>--source</source>
+		<source>C:/Development/Projects/Football-Refactor/Football-BasicRefactor/src/main/java</source>
+	</sources>
+	<packages>
+		<package name="org.fazio.football.display" line-rate="0.0" branch-rate="1.0" complexity="0.0">
+			<classes>
+				<class name="org.fazio.football.display.FFDisplay" filename="org/fazio/football/display/FFDisplay.java" line-rate="0.0" branch-rate="1.0" complexity="0.0">
+					<methods>
+						<method name="&lt;init&gt;" signature="()V" line-rate="0.0" branch-rate="1.0">
+							<lines>
+								<line number="10" hits="0" branch="false"/>
+							</lines>
+						</method>
+					</methods>
+					<lines>
+						<line number="10" hits="0" branch="false"/>
+					</lines>
+				</class>
+			</classes>
+		</package>
+		<package name="org.fazio.football.runner" line-rate="0.0" branch-rate="1.0" complexity="1.0">
+			<classes>
+				<class name="org.fazio.football.runner.Football" filename="org/fazio/football/runner/Football.java" line-rate="0.0" branch-rate="1.0" complexity="1.0">
+					<methods>
+						<method name="&lt;init&gt;" signature="()V" line-rate="0.0" branch-rate="1.0">
+							<lines>
+								<line number="12" hits="0" branch="false"/>
+							</lines>
+						</method>
+						<method name="main" signature="([Ljava/lang/String;)V" line-rate="0.0" branch-rate="1.0">
+							<lines>
+								<line number="15" hits="0" branch="false"/>
+								<line number="16" hits="0" branch="false"/>
+							</lines>
+						</method>
+					</methods>
+					<lines>
+						<line number="12" hits="0" branch="false"/>
+						<line number="15" hits="0" branch="false"/>
+						<line number="16" hits="0" branch="false"/>
+					</lines>
+				</class>
+			</classes>
+		</package>
+	</packages>
+</coverage>

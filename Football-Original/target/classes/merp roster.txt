@@ -1,0 +1,9 @@
+QB:Jake:Delhomme:CAR
+WR:Javon:Walker:GB
+WR:Donald:Driver:GB
+WR:Rod:Smith:DEN
+RB:Corey:Dillon:NE
+RB:Emmitt:Smith:ARI
+TE:Antonio:Gates:SD
+K:Adam:Vinatieri:NE
+DEF:Indianapolis:Colts

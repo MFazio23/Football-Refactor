@@ -1,0 +1,9 @@
+QB:Jake:Delhomme:CAR
+WR:Donald:Driver:GB
+WR:Rod:Smith:DEN
+WR:Herman:Moore:DET
+RB:Mike:Anderson:DEN
+RB:Jerome:Bettis:PIT
+TE:Jason:Witten:DAL
+K:Ryan:Longwell:GB
+DEF:Green Bay:Packers:GB

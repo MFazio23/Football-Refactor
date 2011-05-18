@@ -1,0 +1,9 @@
+QB:David:Carr:HOU
+WR:David:Terrell:CHI
+WR:Justin:McCareins:NYJ
+WR:Issac:Bruce:STL
+RB:Thomas:Jones:CHI
+RB:Fred:Taylor:JAC
+TE:Tony:Gonzalez:KC
+K:David:Akers:PHI
+DEF:Pittsburgh:Steelers

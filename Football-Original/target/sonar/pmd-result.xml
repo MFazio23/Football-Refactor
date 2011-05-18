@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd version="4.2.5" timestamp="2011-05-16T23:22:23.817">
+<file name="C:\Development\Projects\Football-Refactor\Football-Original\src\main\java\FFDisplay.java">
+<violation beginline="8" endline="1015" begincolumn="1" endcolumn="1" rule="NcssTypeCount" ruleset="Code Size Rules" externalInfoUrl="http://pmd.sourceforge.net/rules/codesize.html#NcssTypeCount" priority="3">
+The type has an NCSS line count of 846
+</violation>
+<violation beginline="11" endline="11" begincolumn="13" endcolumn="152" rule="SingularField" ruleset="Design Rules" class="FFDisplay" variable="name" externalInfoUrl="http://pmd.sourceforge.net/rules/design.html#SingularField" priority="4">
+Perhaps 'name' could be replaced by a local variable.
+</violation>
+<violation beginline="19" endline="19" begincolumn="60" endcolumn="62" rule="UnusedPrivateField" ruleset="Unused Code Rules" class="FFDisplay" variable="k2p" externalInfoUrl="http://pmd.sourceforge.net/rules/unusedcode.html#UnusedPrivateField" priority="3">
+Avoid unused private fields such as 'k2p'.
+</violation>
+<violation beginline="19" endline="19" begincolumn="64" endcolumn="66" rule="UnusedPrivateField" ruleset="Unused Code Rules" class="FFDisplay" variable="kfl" externalInfoUrl="http://pmd.sourceforge.net/rules/unusedcode.html#UnusedPrivateField" priority="3">
+Avoid unused private fields such as 'kfl'.
+</violation>
+<violation beginline="19" endline="19" begincolumn="55" endcolumn="58" rule="UnusedPrivateField" ruleset="Unused Code Rules" class="FFDisplay" variable="kret" externalInfoUrl="http://pmd.sourceforge.net/rules/unusedcode.html#UnusedPrivateField" priority="3">
+Avoid unused private fields such as 'kret'.
+</violation>
+<violation beginline="20" endline="20" begincolumn="80" endcolumn="84" rule="UnusedPrivateField" ruleset="Unused Code Rules" class="FFDisplay" variable="deffl" externalInfoUrl="http://pmd.sourceforge.net/rules/unusedcode.html#UnusedPrivateField" priority="3">
+Avoid unused private fields such as 'deffl'.
+</violation>
+<violation beginline="21" endline="21" begincolumn="13" endcolumn="77" rule="SingularField" ruleset="Design Rules" class="FFDisplay" variable="passy" externalInfoUrl="http://pmd.sourceforge.net/rules/design.html#SingularField" priority="4">
+Perhaps 'passy' could be replaced by a local variable.
+</violation>
+<violation beginline="22" endline="22" begincolumn="13" endcolumn="46" rule="SingularField" ruleset="Design Rules" class="FFDisplay" variable="u19" externalInfoUrl="http://pmd.sourceforge.net/rules/design.html#SingularField" priority="4">
+Perhaps 'u19' could be replaced by a local variable.
+</violation>
+<violation beginline="22" endline="22" begincolumn="13" endcolumn="46" rule="SuspiciousConstantFieldName" ruleset="Naming Rules" class="FFDisplay" variable="u19" externalInfoUrl="http://pmd.sourceforge.net/rules/naming.html#SuspiciousConstantFieldName" priority="3">
+The field name indicates a constant but its modifiers do not
+</violation>
+<violation beginline="23" endline="23" begincolumn="13" endcolumn="67" rule="SingularField" ruleset="Design Rules" class="FFDisplay" variable="ptsAll" externalInfoUrl="http://pmd.sourceforge.net/rules/design.html#SingularField" priority="4">
+Perhaps 'ptsAll' could be replaced by a local variable.
+</violation>
+<violation beginline="25" endline="25" begincolumn="13" endcolumn="24" rule="SingularField" ruleset="Design Rules" class="FFDisplay" variable="rost" externalInfoUrl="http://pmd.sourceforge.net/rules/design.html#SingularField" priority="4">
+Perhaps 'rost' could be replaced by a local variable.
+</violation>
+</file>
+<file name="C:\Development\Projects\Football-Refactor\Football-Original\src\main\java\Roster.java">
+<violation beginline="72" endline="72" begincolumn="13" endcolumn="30" rule="SystemPrintln" ruleset="Java Logging Rules" class="Roster" externalInfoUrl="http://pmd.sourceforge.net/rules/logging-java.html#SystemPrintln" priority="3">
+System.out.print is used
+</violation>
+</file>
+</pmd>
